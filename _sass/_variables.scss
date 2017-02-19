@@ -1,0 +1,21 @@
+// Colours
+$text-color: hsl(0, 0%, 100%);
+$border-color: hsla(0, 0%, 100%, 0.075);
+$g-color-1: hsl(251, 35%, 36%);
+$g-color-2: hsl(198, 52%, 43%);
+$g-color-3: hsl(173, 64%, 51%);
+$background-gradient: linear-gradient(85deg, $g-color-1 0%, $g-color-2 50%, $g-color-3 100%);
+$line-color: hsla(0, 0%, 100%, 0.1);
+$button-border-color: hsl(0, 0%, 100%);
+
+// Fonts
+$serif: 'Italia W01', serif;
+$sans-serif: 'Avenir W01', sans-serif;
+
+// Dimensions
+$max-width: 80rem;
+$section-margin: 4rem;
+
+// Breakpoints
+$bp-laptop: 1023px;
+$bp-small : 600px;
